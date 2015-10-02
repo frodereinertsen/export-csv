@@ -1,13 +1,13 @@
 {
   "name": "frodereinertsen-highcharts-export-csv",
   "main": "export-csv.js",
-  "version": "1.3.7",
+  "version": "1.3.8",
   "license": "MIT",
   "ignore": [
     "**/.*",
     "README.md"
   ],
   "dependencies": {
-    "highstock": ">=v2.1.8"
+    "highstock-release": ">=v2.1.8"
   }
 }
